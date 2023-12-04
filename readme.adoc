@@ -1,9 +1,0 @@
-## Jupyter with Java Anywhere
-
-Open link:getting-started.ipynb[getting-started] Jupyter Notebook in your favourite Jupyter notebook environment.
-
-http://colab.research.google.com/github/jupyter-java/anywhere/blob/main/getting-started.ipynb[Google Colab]
-
-https://mybinder.org/v2/gh/jupyter-java/anywhere/HEAD?labpath=getting-started.ipynb[mybinder]
-
-
