@@ -2,14 +2,18 @@
 
 Open [getting-started](getting-started.ipynb) Jupyter Notebook in your favourite Jupyter notebook environment.
 
-[Google Colab](https://colab.research.google.com/github/jupyter-java/anywhere/blob/main/getting-started.ipynb)
 
-[mybinder](https://mybinder.org/v2/gh/jupyter-java/anywhere/HEAD?labpath=getting-started.ipynb)
 
-[GitPod.io](https://gitpod.io/#https://github.com/jupyter-java/anywhere)
+You can open the notebook in any of the following online environments:
 
-[GitHub CodeSpaces](https://codespaces.new/jupyter-java/anywhere)
+* Google Colab: [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jupyter-java/anywhere/blob/main/getting-started.ipynb)
 
-[OpenShift Workspaces](https://workspaces.openshift.com/f?url=https://github.com/jupyter-java/anywhere)
+* Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jupyter-java/anywhere/HEAD?labpath=getting-started.ipynb)
+
+* Gitpod: [![Gitpod](https://img.shields.io/badge/Gitpod-Workspace-blue?logo=gitpod)](https://gitpod.io/#https://github.com/jupyter-java/anywhere)
+
+* GitHub Codespaces: [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/jupyter-java/anywhere)
+
+* OpenShift Workspaces: [![OpenShift Workspaces](https://www.eclipse.org/che/contribute.svg)](https://workspaces.openshift.com/f?url=https://github.com/jupyter-java/anywhere)
 
 
